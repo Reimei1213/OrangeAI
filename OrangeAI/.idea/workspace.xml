@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c91fd8c-44dc-411d-975f-9f8552f8cf99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="263279fa-be28-4994-b198-849a0d231143" />
+  <component name="ProjectId" id="1aZWjU9z2T4Z7zZO6uzqXvvtPen" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="orange_cnn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OrangeAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orange_cnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.orange_cnn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c91fd8c-44dc-411d-975f-9f8552f8cf99" name="Default Changelist" comment="" />
+      <created>1586943731826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586943731826</updated>
+      <workItem from="1586943735684" duration="12574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1319" height="267" key="GridCell.Tab.0.bottom" timestamp="1586998900651">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1319" height="267" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1586998900651" />
+    <state width="1319" height="267" key="GridCell.Tab.0.center" timestamp="1586998900650">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1319" height="267" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1586998900650" />
+    <state width="1319" height="267" key="GridCell.Tab.0.left" timestamp="1586998900650">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1319" height="267" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1586998900650" />
+    <state width="1319" height="267" key="GridCell.Tab.0.right" timestamp="1586998900651">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1319" height="267" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1586998900651" />
+    <state width="1319" height="267" key="GridCell.Tab.1.bottom" timestamp="1586998900654">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1319" height="267" key="GridCell.Tab.1.bottom/67.27.1373.873@67.27.1373.873" timestamp="1586998900654" />
+    <state width="1319" height="267" key="GridCell.Tab.1.center" timestamp="1586998900653">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1319" height="267" key="GridCell.Tab.1.center/67.27.1373.873@67.27.1373.873" timestamp="1586998900653" />
+    <state width="1319" height="267" key="GridCell.Tab.1.left" timestamp="1586998900653">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1319" height="267" key="GridCell.Tab.1.left/67.27.1373.873@67.27.1373.873" timestamp="1586998900653" />
+    <state width="1319" height="267" key="GridCell.Tab.1.right" timestamp="1586998900654">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1319" height="267" key="GridCell.Tab.1.right/67.27.1373.873@67.27.1373.873" timestamp="1586998900654" />
+    <state x="416" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1587027086398">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="416" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1373.873@67.27.1373.873" timestamp="1587027086398" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OrangeAI$orange_cnn.coverage" NAME="orange_cnn Coverage Results" MODIFIED="1586998887151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
